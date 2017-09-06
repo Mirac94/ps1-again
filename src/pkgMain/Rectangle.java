@@ -17,7 +17,7 @@ public class Rectangle {
 	
 	public double Area()
 	{
-	
+	//area=length*width
 		return Length*Width;
 	}	
 }
